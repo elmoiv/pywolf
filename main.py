@@ -1,3 +1,13 @@
+#      Wolfram step-by-step solution unlocker
+#      Copyright 2019 Khaled El-Morshedy <elmoiv>
+#      
+#      This application is intended to serve educational purposes only.
+#      The implementation of this code doesn't include any kind of exploitations.
+#      This is a free usage of an open port with known [appid] key to get solutions without pro account.
+#      If this appid is blocked you will no longer be able to access wolfram alpha service again.
+#      
+#      Have fun :)
+
 import re, os
 from urllib.request import urlopen, urlretrieve
 
