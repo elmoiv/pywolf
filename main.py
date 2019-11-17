@@ -50,7 +50,7 @@ def main():
         raise Exception('Wrong type!')
     
     # Handle input
-    _input = input('\nEnter Wolfram Integral URL: ')
+    _input = input('\nEnter Wolfram URL: ')
     query = _input.split('/input/?i=')[-1]
 
     print('\nConnecting to Wolfram Alpha...')
