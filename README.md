@@ -9,8 +9,9 @@ https://www.wolframalpha.com/input/?i=%E2%88%AB%283%2B5X%5E%282%2F3%29%29%2FX%5E
 - #### Run this via terminal:
 `python main.py`
 - #### Choose type and then submit the url.
+- #### Solution will be stored as `png` image in your current directory.
 
 
 ## Current supported problems are:
-- Derivatives
-- Definite and Indefinite Integrals
+- Derivatives.
+- Definite and Indefinite Integrals.
