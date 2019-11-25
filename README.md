@@ -15,3 +15,6 @@ https://www.wolframalpha.com/input/?i=%E2%88%AB%283%2B5X%5E%282%2F3%29%29%2FX%5E
 ## Current supported problems are:
 - Derivatives.
 - Definite and Indefinite Integrals.
+
+## NOTE
+#### If wolfram updated their appid or fixed this bug, you can use the free alternative https://www.symbolab.com/
