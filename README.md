@@ -1,3 +1,4 @@
+# *DETECTED BY WOLFRAM, No longer works*
 # pywolf
 Get wolfram step-by-step solutions for free
 
